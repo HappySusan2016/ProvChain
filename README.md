@@ -1,4 +1,4 @@
-# ProvChain
+# ProvChain: A Blockchain-based Data Provenance Architecture in Cloud Environment with Enhanced Privacy and Availability
 ProvChain: A Blockchain-based Data Provenance Architecture in Cloud Environment with Enhanced Privacy and Availability
 
 This paper was accepted by 2017 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing.
