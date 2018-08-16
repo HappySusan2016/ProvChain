@@ -1,6 +1,12 @@
 # ProvChain: A Blockchain-based Data Provenance Architecture in Cloud Environment with Enhanced Privacy and Availability
 
-This paper was accepted by 2017 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing. 
+Instructions:
+1. Follow Owncloud docs () and install the Owncloud platform.
+2. Add the test folder.
+3. Open the browser and run the scripts.
+
+
+The paper was accepted by 2017 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing. 
 
 BibTex:
 
