@@ -1,0 +1,41 @@
+
+#superlog table thead tr{
+	background:#DDD;
+}
+#superlog_filter{
+	background:#DDD;
+	border-radius:5px 5px 0 0;
+	padding:0.3em;
+}
+#superlog_filters{
+	display:block;
+text-decoration: underline;
+}
+
+
+
+
+#superlog table tbody tr td{
+	padding:0.3em;
+}
+#superlog table tbody tr td:first-child{
+	text-transform:capitalize;
+}
+#superlog table tbody tr td span{
+	display:inline-block;
+	padding:0em 0.3em;
+	margin:0 0.3em;
+	border-radius:3px;
+	box-shadow:rgba(0,0,0,0.2) 0 0 2px;
+	color:#333;
+}
+#superlog .dir{
+	background:#FFC;
+}
+#superlog .file{
+	background:#FFF;
+}
+#superlog .protocol{
+	font-size:0.8em;
+	color:#999;
+}

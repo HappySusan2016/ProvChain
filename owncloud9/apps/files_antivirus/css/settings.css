@@ -1,0 +1,36 @@
+.section-antivirus .spoiler{
+	display:none;
+	width:100%;
+	margin-top: 14px;
+}
+
+.section-antivirus label {
+	display: inline-block;
+	min-width: 280px;
+	margin-right: 6px;
+	text-align: right;
+}
+
+.shaded{
+	opacity: .3;
+}
+
+.section-antivirus .spoiler{
+	position: relative;
+}
+
+#antivirus-buttons{
+	width: 100%;
+	margin-left:10px;
+	text-align:right;
+}
+
+#antivirus-add{
+	margin:	10px;
+	padding-left: 21px;
+	background-position: 3px 50%;
+}
+
+.section-antivirus h3{
+	padding: 7px 0;
+}

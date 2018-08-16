@@ -1,0 +1,90 @@
+
+.divContainer{
+	//box-shadow: -10px 10px 10px gray;
+    padding: 10px;
+	margin-bottom: 10px;
+}
+.divHeader{
+	//box-shadow: -10px 10px 10px gray;
+    padding: 10px;
+    margin-bottom: 10px;
+	background: #286565;
+    color: white;
+}
+.navbar{
+	margin-bottom: -5px !important;
+}
+
+.nav>li {
+  text-align: center !important;
+}
+
+.divHeaderContain{
+	background: #286565;
+}
+
+.divBodyContain{
+	//min-height:700px;
+	
+}
+.divImg{
+	text-align:center;
+}
+
+.divFooterContain{
+	text-align:center;
+	background: #286565;
+    color: white;
+	padding: 10px;
+	height:40px !important;
+}
+
+.navbar-nav {
+    float: right !important;
+}
+.divMenu{
+	width:100% !important;
+}
+
+.dropdown-menu {
+    min-width: 140px !important;
+}
+
+.navbar-default{
+	background: #286565;
+	border-color: #286565;
+}
+
+.inActive{
+	background:white;
+}
+.glyphicon-refresh-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
+
+.divScan{
+	text-align: center;
+	margin-bottom:10px;
+}
+.btnScan{
+	width:30%;
+}
+.divLoadControls{
+	text-align: right;
+    padding: 10px;
+}
+.bodyImg{
+	height:600px;
+	background: white;
+}

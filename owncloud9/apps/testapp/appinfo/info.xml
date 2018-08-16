@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>testapp</id>
+    <name>Test App</name>
+    <description>My first ownCloud app</description>
+    <licence>AGPL</licence>
+    <author>susan</author>
+    <version>0.0.1</version>
+    <namespace>TestApp</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="9.0" />
+    </dependencies>
+</info>

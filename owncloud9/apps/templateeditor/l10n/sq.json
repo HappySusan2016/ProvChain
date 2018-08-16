@@ -1,0 +1,20 @@
+{ "translations": {
+    "Could not load template" : "S’u ngarkua dot gjedhja",
+    "Saved" : "U ruajt",
+    "Reset" : "Ricaktoje",
+    "An error occurred" : "Ndodhi një gabim",
+    "Sharing email - public link shares (HTML)" : "Email ndarjesh - ndarje me lidhje publike (HTML)",
+    "Sharing email - public link shares (plain text fallback)" : "Email ndarjesh - ndarje me lidhje publike (tekst i thjeshtë, kur s’ka rrugë tjetër)",
+    "Sharing email (HTML)" : "Email ndarjesh  (HTML)",
+    "Sharing email (plain text fallback)" : "Email ndarjesh (tekst i thjeshtë, kur s’ka tjetër mundësi)",
+    "Lost password mail" : "Email për humbje fjalëkalimi",
+    "New user email (HTML)" : "Email mbi përdorues të ri (HTML)",
+    "New user email (plain text fallback)" : "Emailmbi përdorues të ri (tekst i thjeshtë, kur s’ka tjetër mundësi)",
+    "Activity notification mail" : "Email njoftimi veprimtarie",
+    "Mail Templates" : "Gjedhe Email-i",
+    "Theme" : "Temë",
+    "Template" : "Gjedhe",
+    "Please choose a template" : "Ju lutemi, zgjidhni një gjedhe",
+    "Save" : "Ruaje"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
